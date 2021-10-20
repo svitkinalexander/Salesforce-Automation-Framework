@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Contributors](#contributors)
+* [Contributor](#contributor)
 
 ## General info
 ### Purpose:
@@ -43,28 +43,11 @@ This is an open-source repository for everyone who studing and working with Auto
 - Loadable Page/Component
 - Business Steps
 
-## Contributors
-### Remarkable People:                  
-#### 1) Dmitry Rak
+## Contributor                 
 
-![dmitry](https://user-images.githubusercontent.com/55622547/132517445-13c5fb1d-ac79-41fc-aa81-c75c896e9f87.png)
-
-Quality Assurance Lead/Test Automation Lead <br/>
-iTechArt Group <br/>
-ln: https://www.linkedin.com/in/dmitryrak11 <br/>
-
-#### 2) Alexandr Svitkin
+### Alexandr Svitkin
 
 ![alex](https://user-images.githubusercontent.com/55622547/132517471-305ed7d4-89f0-4ef0-81a2-2e089b97c9d6.png)
 
 Quality Assurance / Automation Quality Assurance Engineer <br/>
-iTechArt Group <br/>
 ln: https://www.linkedin.com/in/alexander-svitkin <br/>
-
-#### 3) Vadim Trofimenkov
-
-![vadim](https://user-images.githubusercontent.com/55622547/132517668-e3dcedcd-e3d7-483a-9aaa-744520f38cdf.png)
-
-Quality Assurance / Automation Quality Assurance Engineer <br/>
-iTechArt Group <br/>
-ln: https://www.linkedin.com/in/vadim-trofimenkov <br/>
